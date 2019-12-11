@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>第四頁</title>
+</head>
+<body>
+【台北美食】老艋舺鹹粥店-在地知名的60年老店<dr>
+            就是一家60年老店哦~主食有鹹粥、米粉湯、燒肉飯,小菜則是以炸物為主<p>
+
+<a href="index.html"> <p>
+
+<a href="index.html"連接到首頁</a>
+<a href="002.html"連接第3頁</a>
+<a href="003.html"連接到4頁</a>
